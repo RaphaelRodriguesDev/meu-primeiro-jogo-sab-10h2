@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Woodland Fantasy.mp3-f91ebddc5ff5cddc93b96f8c52670ffc.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/Woodland Fantasy.mp3"
+dest_files=[ "res://.import/Woodland Fantasy.mp3-f91ebddc5ff5cddc93b96f8c52670ffc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
