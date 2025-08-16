@@ -270,3 +270,17 @@ anims/run = SubResource( 3 )
 
 [node name="Camera2D" type="Camera2D" parent="."]
 current = true
+
+[node name="raycasts" type="Node2D" parent="."]
+
+[node name="raycast" type="RayCast2D" parent="raycasts"]
+position = Vector2( 2, 40 )
+enabled = true
+cast_to = Vector2( 0, 25 )
+collision_mask = 8
+
+[node name="raycast2" type="RayCast2D" parent="raycasts"]
+position = Vector2( -13, 40 )
+enabled = true
+cast_to = Vector2( 0, 25 )
+collision_mask = 8
